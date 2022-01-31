@@ -35,7 +35,7 @@ module.exports = () => {
         inject: true,
         name: "JATE Logo",
         short_name: "JATE",
-        description: "",
+        description: "This is a test",
         background_color: "#225ca3",
         theme_color: "#225ca3",
         start_url: "/",
